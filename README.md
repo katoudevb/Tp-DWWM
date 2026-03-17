@@ -97,13 +97,13 @@ Projet disponible en ligne :
 👉 https://bricotteaux.alwaysdata.net/
 
 ## 🧪 Tests
-TrouveTonArtisan:
+- TrouveTonArtisan:
 
 Tests unitaires (Angular)
 Tests fonctionnels (formulaires, navigation)
 Tests utilisateurs (UX)
 
-Knowledge:
+- Knowledge:
 
 Tests unitaires (PHPUnit)
 Tests fonctionnels et d’intégration
