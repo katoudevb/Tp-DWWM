@@ -5,8 +5,8 @@ Ce dépôt contient mon dossier projet réalisé dans le cadre de la formation D
 
 Il présente deux projets principaux :
 
-- 🔧 TrouveTonArtisan : prototype UX/UI d’une application de recherche d’artisans
-- 📚 Knowledge : application web complète de gestion de contenus e-learning
+🔧 TrouveTonArtisan : prototype UX/UI d’une application de recherche d’artisans
+📚 Knowledge : application web complète de gestion de contenus e-learning
 
 Ces projets illustrent l’ensemble du cycle de vie d’un projet web :
 analyse, conception, développement, tests, documentation et déploiement.
@@ -97,13 +97,13 @@ Projet disponible en ligne :
 👉 https://bricotteaux.alwaysdata.net/
 
 ## 🧪 Tests
-- TrouveTonArtisan
+TrouveTonArtisan:
 
 Tests unitaires (Angular)
 Tests fonctionnels (formulaires, navigation)
 Tests utilisateurs (UX)
 
-- Knowledge
+Knowledge:
 
 Tests unitaires (PHPUnit)
 Tests fonctionnels et d’intégration
